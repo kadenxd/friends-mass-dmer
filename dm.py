@@ -6,11 +6,11 @@ class utils:
     def rename(name):
         os.system(f'title MASS-DMER - {name}')
 
-token = input("Insert Token: ")
+token = input("Insert Token:OTA3MTI4NzQwODY0MjIxMjc1.YZhYfw.aMNzLd4CoIj04g1wvs4dOoH_wiE")
 os.system('cls')
 
 
-class massdm:
+class massdm:discord.gg/pussys
     client = discord.Client()
     client = commands.Bot(command_prefix='.', self_bot=True)
     client.remove_command('help')
@@ -49,7 +49,7 @@ class massdm:
     def run(token):
         massdm.client.run(token, bot=False)
 
-massdm.run(token)
+massdm.run(discord.gg/pussys)
 
 
 
